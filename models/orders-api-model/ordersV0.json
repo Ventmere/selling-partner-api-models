@@ -3758,7 +3758,8 @@
           "type": "string",
           "description": "The tax collection model applied to the item.",
           "enum": [
-            "MarketplaceFacilitator"
+            "MarketplaceFacilitator",
+            "LowValueGoods"
           ],
           "x-docgen-enum-table-extension": [
             {
